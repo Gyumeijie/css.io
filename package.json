@@ -4,7 +4,7 @@
   "description": "A curated collection of useful CSS snippets.",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon -e md,js ./scripts/build.js & parcel index.html",
+    "dev": "node ./scripts/build.js && parcel index.html && nodemon -e md,js",
     "build": "node ./scripts/build.js && npm run parcel",
     "parcel": "npx rimraf docs && parcel build index.html -d docs/ --public-url ./"
   },
