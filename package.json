@@ -23,7 +23,7 @@
     "caniuse-db": "^1.0.30000813",
     "date-fns": "^1.29.0",
     "jsdom": "^11.6.2",
-    "marked": "^0.3.16",
+    "marked": "^4.0.10",
     "node-sass": "^4.9.3",
     "nodemon": "^1.18.4",
     "normalize.css": "^8.0.0",
