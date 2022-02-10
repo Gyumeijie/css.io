@@ -24,7 +24,7 @@
     "date-fns": "^1.29.0",
     "jsdom": "^11.6.2",
     "marked": "^0.3.16",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.18.4",
     "normalize.css": "^8.0.0",
     "parcel-bundler": "^1.11.0",
